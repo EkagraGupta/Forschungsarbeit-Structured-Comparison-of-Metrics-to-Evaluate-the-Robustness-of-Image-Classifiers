@@ -17,4 +17,4 @@ Advancements in deep learning have highlighted vulnerabilities in image classifi
 - __Tools__: PyTorch and CleverHans library for implementing attacks and measuring robustness.
 
 ## Results
-![Alt text](image.png)
+![Alt text](/image.png)
